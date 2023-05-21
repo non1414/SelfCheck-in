@@ -4,6 +4,7 @@
 //
 //  Created by نوف بخيت الغامدي on 27/10/1444 AH.
 //
+//kkkk
 
 import SwiftUI
 
@@ -13,7 +14,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Hello, world!")
+            Text("Hello, worldkk!")
         }
         .padding()
     }
